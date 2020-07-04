@@ -1229,6 +1229,7 @@ canvas#chart1 {
 	}
 	.flip-clock-divider.minutes .flip-clock-label {
 		right: -80px;
+		margin-top: 180;
 	}
 	.flip-clock-divider.seconds .flip-clock-label {
 		right: -84px;
@@ -1368,6 +1369,7 @@ canvas#chart1 {
 	}
 	.flip-clock-divider.seconds .flip-clock-label {
 		right: -79px;
+		margin-top: 180px;
 	}
 
 	.flip-clock-wrapper ul {
