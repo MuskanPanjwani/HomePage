@@ -70,7 +70,7 @@ ul{
 }
 /*-- //Reset-Code --*/
 body {
-    background: url(https://muskanpanjwani.github.io/HomePage/images/b8.jpg);
+    background: url('https://muskanpanjwani.github.io/HomePage/image/b8.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -144,29 +144,6 @@ line-height:28px;
 }
 .w3layouts_more-buttn a:hover ,.outs_more-buttn a:hover{color: #fff;
 background: rgba(255, 255, 255, 0);}
-.form-left-w3l input[type="text"],
-.form-left-w3l input[type="email"],
-.form-control-w3l textarea
-{
-    width:100%;
-    color: #fff;
-    outline: none;
-    font-size: 15px;
-    padding: .8em 1em;
-    border:1px solid #fff;
-	letter-spacing: 2px;
-	margin: 0px 0px 16px;
-    -webkit-appearance: none;
-    display: inline-block;
-	font-family: 'Open Sans', sans-serif;
-    background:none;
-    transition: all 0.5s ease-in-out;
-    -webkit-transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
-    -ms-transition: all 0.5s ease-in-out;
-	  box-sizing: border-box;
-
 }
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
      color: #fff;
@@ -179,33 +156,6 @@ background: rgba(255, 255, 255, 0);}
 }
 :-moz-placeholder { /* Firefox 18- */
     color: #fff;
-}
-textarea {
-    height: 134px;
-    padding: 1em;
-    overflow: hidden;
-    resize: none;
-}
-button[type=submit]{
-    width: 100%;
-    background: #000;
-    outline: none;
-    border-radius: 50px;
-	 color:#fff;
-	 margin:18px 0px 0px;
-	 font-size:18px;
-	 font-weight:400;
-     border: 1px solid #fff;
-     padding:11px 11px;
-	 letter-spacing:1px;
-	 text-transform:uppercase;
-	 cursor:pointer;
-	 transition: 0.5s all;
-	font-family: 'Open Sans', sans-serif;
-	-webkit-transition: 0.5s all;
-	-o-transition: 0.5s all;
-	-moz-transition: 0.5s all;
-	-ms-transition: 0.5s all;
 }
 button:hover{color:#000;
      background:#fff;
@@ -610,6 +560,7 @@ button[type=submit] {
 .letter-w3ls h4 {
     font-size: 37px;
 	padding-bottom: 23px;
+}
 }
 h1.error {
     padding-top: 30px;
