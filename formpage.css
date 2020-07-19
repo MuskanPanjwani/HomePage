@@ -213,7 +213,6 @@ box-shadow: 3px 17px 43px 6px rgba(0,0,0,0.75);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding-top: 20px;
 }
 
 select:required:invalid 
