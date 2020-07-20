@@ -3,6 +3,10 @@
   margin: 0px;
   padding: 0px; }
 
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255,255,255,0.9);
+    font-weight: bold;
+}
 a {
   text-decoration: none;
   transition: all 0.3s ease-in-out; }
